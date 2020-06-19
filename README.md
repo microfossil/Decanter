@@ -9,7 +9,7 @@ Up to 3.5 ml of solution containing the particles you want to randomly settle on
 
 ![New_decanter](New_decanter.jpg "New_decanter 3D printable version")
 
-[![New dcanter](https://i.imgur.com/MJeXoqW.png)](https://www.youtube.com/watch?v=veRmKI4rGTo&t=116s "New decanter")
+[![New dcanter](https://i.imgur.com/ErkomyD.png)](https://www.youtube.com/watch?v=veRmKI4rGTo&t=116s "New decanter")
 
 Click on the image above to see the instruction video.
 
