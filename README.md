@@ -36,3 +36,5 @@ This 3D printable decanter was designed for random settling of particles (coccol
 Up to 2 ml of solution containing the particles you want to randomly settle on your slide can be dropped into each well.
 
 ![Original_decanter](Original_decanter.jpg "Original_decanter 3D printable version")
+
+# ! Custom-sized decanters can also be designed on demand !
