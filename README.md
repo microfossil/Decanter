@@ -38,3 +38,4 @@ Up to 2 ml of solution containing the particles you want to randomly settle on y
 ![Original_decanter](Original_decanter.jpg "Original_decanter 3D printable version")
 
 # ! Custom-sized decanters can also be designed on demand !
+You can contact us at: tetard@cerege.fr
