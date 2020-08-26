@@ -27,6 +27,13 @@ This 3D printable decanter was designed for random settling of particles (coccol
 
 ![New_decanter](40x22x1.jpg "DecanteurRad40x22x1 3D printable version")
 
+## New Slide Guide
+The Slide_guide.stl file is introduced in the "A new automated radiolarian image acquisition, stacking, processing, segmentation, and identification workflow" publication.
+
+This 3D printable slide guide was designed for preparation of microscopic slide using standard 12 x 12 mm microscope cover slides on a 76 x 28 mm glass slide.
+
+![Slide_quide](Slide_guide.png "Slide_guide")
+
 ## Original decanter
 The Original_decantor_stl file is a 3D printable version of the model presented in:
 https://www.sciencedirect.com/science/article/abs/pii/S0377839817300221
