@@ -1,3 +1,5 @@
+Please, visit https://micropalprinter.wordpress.com to see our products!
+
 # Decanter
 
 ## New 12 x 12 mm x 8 tanks Decanter and slide guide
@@ -45,4 +47,5 @@ Up to 2 ml of solution containing the particles you want to randomly settle on y
 ![Original_decanter](Original_decanter.jpg "Original_decanter 3D printable version")
 
 # ! Custom-sized decanters can also be designed on demand !
-You can contact us at: tetard@cerege.fr
+You can contact us at: tetard.martin@gmail.com
+Please, visit https://micropalprinter.wordpress.com to see our products!
