@@ -1,4 +1,5 @@
-Please, visit https://micropalprinter.wordpress.com to see our products!
+## UPDATE: If you don't own a 3D printer, decanter and slide guide can be printed on demand.
+You can contact us at tetard.martin@gmail.com for more information and visit https://micropalprinter.wordpress.com to see our products!
 
 # Decanter
 
@@ -48,4 +49,6 @@ Up to 2 ml of solution containing the particles you want to randomly settle on y
 
 # ! Custom-sized decanters can also be designed on demand !
 You can contact us at: tetard.martin@gmail.com
-Please, visit https://micropalprinter.wordpress.com to see our products!
+
+## UPDATE: If you don't own a 3D printer, decanter and slide guide can be printed on demand.
+You can contact us at tetard.martin@gmail.com for more information and visit https://micropalprinter.wordpress.com to see our products!
