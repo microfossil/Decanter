@@ -12,6 +12,8 @@ Up to 3.5 ml of solution containing the particles you want to randomly settle on
 
 ![New_decanter](https://micropalprinter.wordpress.com/wp-content/uploads/2022/02/3h8a3907.jpg?w=1458)
 
+![New_decanter](https://micropalprinter.wordpress.com/wp-content/uploads/2022/02/3h8a3908.jpg)
+
 [![New dcanter](https://i.imgur.com/ErkomyD.png)](https://youtu.be/veRmKI4rGTo "New decanter")
 
 Click on the image above to see the instruction video.
@@ -22,7 +24,7 @@ The Slide_guide.stl file is introduced in the "A new automated radiolarian image
 
 This 3D printable slide guide was designed for preparation of microscopic slide using standard 12 x 12 mm microscope cover slides on a 76 x 28 mm glass slide.
 
-![Slide_quide](Slide_guide.png "Slide_guide")
+![Slide_quide](https://micropalprinter.wordpress.com/wp-content/uploads/2022/02/3h8a3909.jpg?w=1458)
 
 
 # ! Custom-sized decanters can also be designed on demand !
