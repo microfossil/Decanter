@@ -1,6 +1,8 @@
 ## UPDATE: If you don't own a 3D printer, decanter and slide guide can be printed on demand.
 You can contact us at tetard.martin@gmail.com for more information and visit https://micropalprinter.wordpress.com to see our products!
 
+<a href="https://cp.copernicus.org/articles/16/2415/2020/">Micropalprinter Decanteur and slide guide</a> © 2019 by <a href="https://micropalprinter.wordpress.com/decanter/">Martin Tetard</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 # Decanter
 
 ## New 12 x 12 mm x 8 tanks Decanter and slide guide
